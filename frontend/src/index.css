@@ -1,0 +1,8 @@
+.rounded {
+  background-color: blueviolet;
+}
+
+.homescreen {
+  /* need to be clear about min-height: 80vh; */
+  margin: 50px;
+}

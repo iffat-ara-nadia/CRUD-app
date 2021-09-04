@@ -1,0 +1,20 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parse": "^4.16.2",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "json2csv": "^5.0.6",
+    "node-csv": "^0.1.2"
+  }
+}
